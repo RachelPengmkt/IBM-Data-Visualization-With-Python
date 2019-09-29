@@ -1,4 +1,4 @@
-# IMB-Data-Visualization-With-Python
+# IBM-Data-Visualization-With-Python
 
 ## My data visualization projects using pandas, matplotlib, seaborn, and Folium.
 
