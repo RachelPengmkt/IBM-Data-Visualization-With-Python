@@ -1,6 +1,6 @@
 # IMB-Data-Visualization-With-Python
 
-## My data visualization projects using pandas and matplotlib, seaborn, and Folium.
+## My data visualization projects using pandas, matplotlib, seaborn, and Folium.
 
 Objective: enhance my skills in advanced data visualization. 
 
